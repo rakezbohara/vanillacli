@@ -1,6 +1,6 @@
 name: folderstruct
 description: Create a flutter page.
-to: ui/@name
+to: /@name
 args:
   - name
   - msg
