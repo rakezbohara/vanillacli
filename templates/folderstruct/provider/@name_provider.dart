@@ -1,0 +1,1 @@
+class @NameProvider extends BaseProvider {}

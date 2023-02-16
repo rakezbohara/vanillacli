@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:@appName/base/base_page.dart';
 
-class @NamePage extends StatefulWidget {
+class @NamePage extends BasePage {
   @override
   _@NamePageState createState() => _@NamePageState();
 }
