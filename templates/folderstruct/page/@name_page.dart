@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:@appName/base/base_page.dart';
+import '../../../base/base_page.dart';
 
 class @NamePage extends BasePage {
   @override
